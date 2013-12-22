@@ -1,11 +1,7 @@
 Python Tutorial 中文版
 ======================
 
-原英文版來自 [PyConTW2013Tutorial](http://justinsdk.github.io/PyConTW2013Tutorial/)，在此 Fork 一份，作為 [CodeData](http://www.codedata.com.tw) 上中文版之索引。
-
----------------
-
-六個小時的課程的主旨設計為：
+原英文版來自 [PyConTW2013Tutorial](http://justinsdk.github.io/PyConTW2013Tutorial/)，在此 Fork 一份，作為 [CodeData](http://www.codedata.com.tw) 上中文版之索引。六個小時的課程的主旨設計為：
 
 - 瞭解 Python 生態系（語言、工具、程式庫…）
 - 瞭解 Python 社群核心文化（撰碼風格、典範、文件、社群…）
