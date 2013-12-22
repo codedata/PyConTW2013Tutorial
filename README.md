@@ -1,116 +1,36 @@
-PyConTW2013Tutorial
-===================
+Python Tutorial 中文版
+======================
 
-Python Conference Taiwan 2013 Tutorial
+原英文版來自 [PyConTW2013Tutorial](http://justinsdk.github.io/PyConTW2013Tutorial/)，在此 Fork 一份，作為 [CodeData](http://www.codedata.com.tw) 上中文版之索引。
 
-The [PyConTW](http://tw.pycon.org) organizer wishes to improve the quality and quantity of the programming cummunities in Taiwan. Though Python is their core tool and methodology, they know it's worth to learn and communicate with wide-ranging communities. Understanding cultures and ecosystem of a language takes me about three to six months. This six-hour course wraps up what I - an experienced Java developer - have learned from Python ecosystem and the agenda of the past PyConTW.
+---------------
 
-Watch [PyCon Taiwan 2013 Tutorial online](http://www.slideshare.net/JustinSDK/pycon-taiwan-2013-tutorial).
+六個小時的課程的主旨設計為：
 
-You can find the Traditional-Chinese edition of this tutorial in [CodeData](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface).
+- 瞭解 Python 生態系（語言、工具、程式庫…）
+- 瞭解 Python 社群核心文化（撰碼風格、典範、文件、社群…）
+- 建立與 PyCon Taiwan 2013 的連結
+- Python 化（Pythonic）
 
-Table of Content
-----------------
-* The 1st class
-  * Preface
-  * Picking and Installing an Interpreter
-     * Implementations
-     * Preparing Course Environment
-     * Where’re My Libraries?
-     * What’s the Relationship among Distutils, Distribute and Pip?
-  * Hello! World!
-     * Introduction to Unicode Support
-     * Basic Input and Output
-  * Integrated Development Environment
-  * Reference
+這個課程當然沒有時間鉅細靡遺地交代所有 Python 的細節，但會是個快速瞭解 Python 生態系的起點，讓你從這個起點開始，可以自行找到更多相關的資源。
 
-***
 
-* The 2nd class
-  * Learning Python language
-     * Built-in Types
-     * Numerical Types
-     * String Type
-     * List Type
-     * Set Type
-     * Dict Type
-     * Tuple Type
-  * if, for, while and for Comprehensions
-     * if..else
-     * for and while
-     * for Comprehensions
-  * Functions, Modules, Classes and Packages
-     * Functions
-     * Modules
-     * Classes
-     * Packages
-  * References
-
-***
-
-* The 3rd class
-  * The Community
-     * Documentation
-     * DocStrings
-     * Official Documentation
-     * PyDoc
-     * EpyDoc
-  * Data Management Functions
-     * Built-in Functions
-     * reduce
-  * Persistence
-     * marshal, pickle, cPickle
-     * DBM
-     * shelve
-     * DB-API 2.0（PEP 249）
-  * References
-
-***
-
-* The 4th class
-  * Libraries vs Frameworks
-     * Inversion of Control
-     * Do We Need a Framework?
-  * Getting Started with Django
-     * Creating a Project
-     * Creating a Database and an App
-     * Playing API with the Python shell
-  * Writing Your First View
-     * Controller? or Views?
-     * URLconf
-  * References
-
-***
-
-* The 5th class
-  * Using the Template System
-     * Writing Templates
-     * Removing Hardcoded URLs in Templates
-     * Namespacing URL Names
-     * Writing a Simple Form
-  * A Bit About CSRF
-     * A Cross-Site Request Forgery Example
-     * CSRF Countermeasures
-  * Testing
-     * assert
-     * doctest
-  * References
-
-***
-
-* The 6th class
-  * unittest（Testing Continued）
-     * Test Case
-     * Test Fixture
-     * Test Suite
-     * Test Runner
-  * Profiling
-     * timeit
-     * cProfile（profile） 
-  * PyCon Taiwan
-     * PyCon Taiwan 2012
-     * PyCon Taiwan 2013
-  * References
+- Python Tutorial 第一堂
+ - [Python Tutorial 第一堂（1）揭開序幕](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface/)
+ - [Python Tutorial 第一堂（2）準備課程環境](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-2-preparing-course-environment/)
+ - [Python Tutorial 第一堂（3）哈囉！世界！](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-3-hello-world-traditional-chinese-edition/)
+ - [Python Tutorial 第一堂（4）Unicode 支援、基本 I/O](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-4-unicode-support-basic-input-output/)
+- Python Tutorial 第二堂
+ - [Python Tutorial 第二堂（1）數值與字串型態](http://www.codedata.com.tw/python/python-tutorial-the-2nd-class-1-numeric-types-and-string/)
+ - [Python Tutorial 第二堂（2）容器、流程、for 包含式](http://www.codedata.com.tw/python/python-tutorial-the-2nd-class-2-container-flow-for-comprehension/)
+ - [Python Tutorial 第二堂（3）函式、模組、類別與套件](http://www.codedata.com.tw/python/python-tutorial-the-2nd-class-3-function-module-class-package/)
+- Python Tutorial 第三堂
+ - [Python Tutorial 第三堂（1）社群文件資源](http://www.codedata.com.tw/python/python-tutorial-the-3rd-class-1-community-documentation/)
+ - [Python Tutorial 第三堂（2）資料處理函式](http://www.codedata.com.tw/python/python-tutorial-the-3rd-class-2-data-management-functions/)
+ - [Python Tutorial 第三堂（3）永續化機制](http://www.codedata.com.tw/python/python-tutorial-the-3rd-class-3-persistence/)
+- Python Tutorial 第四堂
+ - [Python Tutorial 第四堂（1）Django 起步走](http://www.codedata.com.tw/python/python-tutorial-the-4th-class-1-django-getting-started/)
+ - 待續 ...
 
 ***
 
