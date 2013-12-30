@@ -26,6 +26,7 @@ Python Tutorial 中文版
  - [Python Tutorial 第三堂（3）永續化機制](http://www.codedata.com.tw/python/python-tutorial-the-3rd-class-3-persistence/)
 - Python Tutorial 第四堂
  - [Python Tutorial 第四堂（1）Django 起步走](http://www.codedata.com.tw/python/python-tutorial-the-4th-class-1-django-getting-started/)
+ - [Python Tutorial 第四堂（2）建立 App 與基本 ORM](http://www.codedata.com.tw/python/python-tutorial-the-4th-class-app-orm/)
  - 待續 ...
 
 ***
