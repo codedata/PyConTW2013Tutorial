@@ -30,7 +30,8 @@ Python Tutorial 中文版
  - [Python Tutorial 第四堂（3）撰寫 Django 中第一個 View](http://www.codedata.com.tw/python/python-tutorial-the-4th-class-3-first-view/)
 - Python Tutorial 第五堂
  - [Python Tutorial 第五堂（1）使用模版系統](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-1-template-system/)
- - 待續 ...
+ - [Python Tutorial 第五堂（2）表單與 CSRF](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-2-form-csrf/)
+ - ...
 
 ***
 
