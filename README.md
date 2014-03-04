@@ -31,6 +31,7 @@ Python Tutorial 中文版
 - Python Tutorial 第五堂
  - [Python Tutorial 第五堂（1）使用模版系統](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-1-template-system/)
  - [Python Tutorial 第五堂（2）表單與 CSRF](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-2-form-csrf/)
+ - [Python Tutorial 第五堂（3）使用 assert 與 doctest](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-3-assert-doctest/)
  - ...
 
 ***
