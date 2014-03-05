@@ -10,6 +10,7 @@ Python Tutorial 中文版
 
 這個課程當然沒有時間鉅細靡遺地交代所有 Python 的細節，但會是個快速瞭解 Python 生態系的起點，讓你從這個起點開始，可以自行找到更多相關的資源。
 
+你可以在 [Google Play](https://play.google.com/store/books/details?id=eYb3AgAAQBAJ) 或 [Pubu](http://www.pubu.com.tw/ebook/Python-Tutorial-Learn-Python-in-06-00-00-29922) 上取得本系列文件的電子書。
 
 - Python Tutorial 第一堂
  - [Python Tutorial 第一堂（1）揭開序幕](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface/)
