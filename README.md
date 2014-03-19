@@ -35,7 +35,7 @@ Python Tutorial 中文版
  - [Python Tutorial 第五堂（3）使用 assert 與 doctest](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-3-assert-doctest/)
 - Python Tutorial 第六堂
  - [Python Tutorial 第六堂（1）使用 unittest 單元測試](http://www.codedata.com.tw/python/python-tutorial-the-5th-class-3-assert-doctest/)
- - ...
+ - [Python Tutorial 第六堂（2）效能評測、PyCon Taiwan](http://www.codedata.com.tw/python/python-tutorial-the-6th-class-2-performance-pycon-taiwan/)
 
 ***
 
